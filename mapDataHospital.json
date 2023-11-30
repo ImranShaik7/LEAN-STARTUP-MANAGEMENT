@@ -1,0 +1,91 @@
+[
+  {
+    "id": "id1",
+    "location": [
+      12.9541,
+      79.1369
+    ],
+    "station_name": "Indira Superspeciality Hospital",
+    "address": " 54, Katpadi Main Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006"
+    
+  },
+  {
+    "id": "id2",
+    "location": [
+      12.934876,
+      79.151763
+    ],
+    "station_name": "Dr-Sivakumar-Multispeciality-Hospital",
+    "address": "Arcot Road, Sathuvachari, Vellore - 632009, Tamil Nadu, India. Phone: 0416-2253400"
+    
+  },
+  {
+    "id": "id3",
+    "location": [
+      12.9343,
+      79.1589
+    ],
+    "station_name": "Vellore Speciality Hospital",
+    "address": "1315, South Avenue Road, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009"
+    
+  },
+  {
+    "id": "id4",
+    "location": [
+      12.9571,
+      79.1416
+    ],
+    "station_name": "Sri Narayani Speciality Centre",
+    "address": "EB, Bus Stop, 36, 7th East Main Road Gandhi Nager East, 6, Katpadi, Vellore, Tamil Nadu 632006"
+   
+  },
+  {
+    "id": "id5",
+    "location": [
+      12.9091,
+      79.1333
+    ],
+    "station_name": "Cure Multispeciality Hospital",
+    "address": "77/9, Arani Road, Arani Road, Behind Of Voorhees College, Kosapet, Vellore, Tamil Nadu 632001"
+    
+  },
+  {
+    "id": "id6",
+    "location": [
+      12.9290727,
+      79.1326164
+    ],
+    "station_name": "Akshaya Hospital",
+    "address": "112, Katpadi Main Rd, Suthanthira Ponvizha Nagar, Venkatraman Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632002"
+    
+  },
+  {
+    "id": "id7",
+    "location": [
+      13.05167,
+      80.21179
+    ],
+    "station_name": "SIMS Hospitals",
+    "address": "Thottapalayam, Vellore, Tamil Nadu 632012"
+    
+  },
+  {
+    "id": "id8",
+    "location": [
+      12.9352,
+      79.1415
+    ],
+    "station_name": "Naruvi Hospitals",
+    "address": "Chennai - Bengaluru Highway, 72, Collector's Office Rd, Vellore, Tamil Nadu 632004"
+    
+  },
+  {
+    "id": "id9",
+    "location": [
+      12.9692408,
+      79.1487983
+    ],
+    "station_name": "Paul Brand Integrated Health Centre",
+    "address": "Chennai Road, Chennai Road, Near V.I.T., Old Katpadi, Selvam Nagar, Solai Nagar, Katpadi, Vellore, Tamil Nadu 632007, India"
+  }
+]

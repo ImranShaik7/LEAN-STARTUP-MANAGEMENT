@@ -1,0 +1,78 @@
+<html>
+
+<head>
+  <title>Recommendation System</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://js.arcgis.com/4.22/esri/themes/light/main.css">
+  <script src="https://js.arcgis.com/4.22/"></script>
+  <!-- include styles.css -->
+  <link rel="stylesheet" href="styles2.css">
+</head>
+
+<body>
+  <div class="left">
+    <div class="maphere" id="MAP-AREA"></div>
+
+  </div>
+
+  <div class="lastright">
+    <div class="navbar">
+      <a href="#" class="nav-link" id="policeLink">Police</a>
+      <a href="#" class="nav-link" id="hospitalLink">Hospital</a>
+    </div>
+    <div class="first">
+      <div class="directions">
+        <div class="home" style="padding-left: 160px;"> <a href="index.html" class="home"><img src="home.png" alt="Home"  style="width: 34px;"  ></a></div>
+        <h2>Directions</h2> <br>
+        <span class="toggle-icon" onclick="toggleDirections('directions-panel1')"> To Destination 1 ▼</span>
+        <div class="content" id="directions-panel1">
+          <!-- Directions for Router 1 -->
+          Enter Latitude and Longitude to find route
+        </div>
+      </div>
+<!-- Directions for Router 2   -->
+       <div class="directions">
+        <span class="toggle-icon" onclick="toggleDirections('directions-panel2')"> To Destination 2 ▼</span>
+        <div class="content" id="directions-panel2">
+            
+          Enter Latitude and Longitude to find route
+        </div>
+      </div>
+
+      <div class="directions">
+        <span class="toggle-icon" onclick="toggleDirections('directions-panel3')">To Destination 3 ▼</span>
+        <div class="content" id="directions-panel3">
+          
+          Enter Latitude and Longitude to find route
+        </div>
+      </div>  
+      <!-- Directions for Router 3 -->
+    </div>
+
+    <div class="second">
+        <div id="router-card" class="router-card ">
+            <h2>Information</h2>
+            <div id="router-info"></div>
+          </div>
+    </div>
+
+    <div class="third">
+        <div class="input-container">
+            
+            <input id="latitude" placeholder="Enter Latitude " />
+            <br>
+            
+            <input id="longitude" placeholder="Enter Longitude" />
+            <br>
+            <button type="button" id="getLocationBtn">Use Current Location</button>
+            <button type="button" id="findRoute">Find Route</button>
+          </div>
+    </div>
+
+   
+  </div>
+  <script src="main2.js"></script>
+</body>
+
+</html>

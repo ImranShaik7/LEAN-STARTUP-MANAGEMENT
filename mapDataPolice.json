@@ -1,0 +1,95 @@
+[
+  {
+    "id": "id11",
+    "location": [
+      12.9752,
+      79.1372
+    ],
+    "station_name": "Katpadi Police Station",
+    "address": "X4GP+3VW, Chitoor, Vellore - Thoothukudi Hwy, Katpadi, Vellore, Tamil Nadu 632007"
+    
+  },
+  {
+    "id": "id12",
+    "location": [
+      12.9276387,
+      79.3306688
+    ],
+    "station_name": "All women's Police Station (AWPS)",
+    "address": "Srinivasan Nagar, Vellore, Tamil Nadu 632004"
+    
+  },
+  {
+    "id": "id13",
+    "location": [
+      12.9237,
+      79.1346
+    ],
+    "station_name": "C M C Traffic Police",
+    "address": " Arcot Road, Arcot Road, Shenbakkam, near C.M.C. Hospital, Vellore, Tamil Nadu 632015"
+    
+  },
+  {
+    "id": "id14",
+    "location": [
+      12.9164298,
+      79.1274293
+    ],
+    "station_name": "Community Hall of Police",
+    "address": "Bharathiyar Sallai, Near Ganapathy Temple, Bharathiyar Salai, Vasanthapuram, Kosapet, Vellore, Tamil Nadu 632001"
+    
+  },
+  {
+    "id": "id15",
+    "location": [
+      12.9232597,
+      79.1316455
+    ],
+    "station_name": "North police station",
+    "address": "Balaji Nagar, Vellore, Tamil Nadu 632004"
+    
+  },
+  {
+    "id": "id16",
+    "location": [
+      12.9163154,
+      79.1327485
+    ],
+    "station_name": "Vellore South Police Station",
+    "address": "Arni Road, SH 9, Saidapet, Vellore, Tamil Nadu 600015"
+    
+  },
+  {
+    "id": "id17",
+    "location": [
+      12.955105356,
+      79.139906019
+    ],
+    "station_name": "Viruthampet Police Station",
+    "address": "10th East Cross Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006"
+   
+  },
+  {
+    "id": "id18",
+    "location": [
+      12.9363712,
+      79.1532423
+    ],
+    "station_name": "Sathuvachari Police Station",
+    "address": "NH-46, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009"
+   
+  },
+  {
+    "id": "id19",
+    "location": [
+      12.8752635,
+      79.1337692
+    ],
+    "station_name": "Bagayam Police Station",
+    "address": "Arni Rd, Bagayam, Vellore, Tamil Nadu 632002"
+    
+  }
+
+  
+
+]

@@ -1,0 +1,191 @@
+[
+    {
+      "id": "ID6949",
+      "location": [
+        51.22712244803731,
+        4.378233047485302
+      ],
+      "generations_supported": [
+        "5G",
+        "4G"
+      ],
+      "preferred_capabilities": [
+        "5G",
+        "4G",
+        "3G"
+      ],
+      "current_position_capability": "4G",
+      "positions_towards_5g_support": "In Range",
+      "positions_towards_4g_support": "Not In Range",
+      "positions_towards_3g_support": "In Range"
+    },
+    {
+      "id": "ID6388",
+      "location": [
+        51.23690393856015,
+        4.341497512817383
+      ],
+      "generations_supported": [
+        "5G"
+      ],
+      "preferred_capabilities": [
+        "5G",
+        "4G",
+        "3G"
+      ],
+      "current_position_capability": "4G",
+      "positions_towards_5g_support": "In Range",
+      "positions_towards_4g_support": "In Range",
+      "positions_towards_3g_support": "In Range"
+    },
+    {
+      "id": "ID1358",
+      "location": [
+        51.21400553880133,
+        4.3401242218017595
+      ],
+      "generations_supported": [
+        "5G"
+      ],
+      "preferred_capabilities": [
+        "5G",
+        "4G",
+        "3G"
+      ],
+      "current_position_capability": "3G",
+      "positions_towards_5g_support": "Not In Range",
+      "positions_towards_4g_support": "Not In Range",
+      "positions_towards_3g_support": "In Range"
+    },
+    {
+      "id": "ID3559",
+      "location": [
+        51.23459311465953,
+        4.4125653228758805
+      ],
+      "generations_supported": [
+        "5G",
+        "4G"
+      ],
+      "preferred_capabilities": [
+        "5G",
+        "4G",
+        "3G"
+      ],
+      "current_position_capability": "4G",
+      "positions_towards_5g_support": "Not In Range",
+      "positions_towards_4g_support": "In Range",
+      "positions_towards_3g_support": "In Range"
+    },
+    {
+      "id": "ID2221",
+      "location": [
+        51.222875989041206,
+        4.4253540954588715
+      ],
+      "generations_supported": [
+        "5G",
+        "4G"
+      ],
+      "preferred_capabilities": [
+        "5G"
+      ],
+      "current_position_capability": "5G",
+      "positions_towards_5g_support": "Not In Range",
+      "positions_towards_4g_support": "Not In Range",
+      "positions_towards_3g_support": "In Range"
+    },
+    {
+      "id": "ID9910",
+      "location": [
+        51.21298398327552,
+        4.405698867797765
+      ],
+      "generations_supported": [
+        "5G"
+      ],
+      "preferred_capabilities": [
+        "5G",
+        "4G",
+        "3G"
+      ],
+      "current_position_capability": "5G",
+      "positions_towards_5g_support": "Not In Range",
+      "positions_towards_4g_support": "Not In Range",
+      "positions_towards_3g_support": "Not In Range"
+    },
+    {
+      "id": "ID1172",
+      "location": [
+        51.21212370841155,
+        4.442262741088731
+      ],
+      "generations_supported": [
+        "5G",
+        "4G",
+        "3G"
+      ],
+      "preferred_capabilities": [
+        "5G"
+      ],
+      "current_position_capability": "4G",
+      "positions_towards_5g_support": "In Range",
+      "positions_towards_4g_support": "Not In Range",
+      "positions_towards_3g_support": "In Range"
+    },
+    {
+      "id": "ID1559",
+      "location": [
+        51.2186291382498,
+        4.369649978637657
+      ],
+      "generations_supported": [
+        "5G",
+        "4G"
+      ],
+      "preferred_capabilities": [
+        "5G"
+      ],
+      "current_position_capability": "4G",
+      "positions_towards_5g_support": "Not In Range",
+      "positions_towards_4g_support": "Not In Range",
+      "positions_towards_3g_support": "In Range"
+    },
+    {
+      "id": "ID39",
+      "location": [
+        51.2313147700129,
+        4.3608094177245835
+      ],
+      "generations_supported": [
+        "5G",
+        "4G"
+      ],
+      "preferred_capabilities": [
+        "5G",
+        "4G"
+      ],
+      "current_position_capability": "3G",
+      "positions_towards_5g_support": "In Range",
+      "positions_towards_4g_support": "In Range",
+      "positions_towards_3g_support": "In Range"
+    },
+    {
+      "id": "ID2498",
+      "location": [
+        51.221800873981444,
+        4.397029968261644
+      ],
+      "generations_supported": [
+        "5G"
+      ],
+      "preferred_capabilities": [
+        "5G",
+        "4G"
+      ],
+      "current_position_capability": "4G",
+      "positions_towards_5g_support": "Not In Range",
+      "positions_towards_4g_support": "In Range",
+      "positions_towards_3g_support": "Not In Range"
+    }
+  ]
